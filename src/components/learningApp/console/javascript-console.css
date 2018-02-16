@@ -1,0 +1,11 @@
+div.react-console-container {
+    font-size: 0.85em;
+    font-family: "Menlo", "Consolas", "DejaVu Sans Mono", monospace;
+    width: 100%;
+    box-sizing: border-box;
+    height: 100%;
+    background: #efefef;
+    padding: 0.5em;
+    overflow: scroll;
+    white-space: pre;
+}
